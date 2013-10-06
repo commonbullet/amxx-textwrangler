@@ -21,7 +21,7 @@ This projects focus on providing tools in order to help compiling and writing AM
 ### Installation
 1. Download the files from TextWrangler folder
 2. Find the <code>TextWrangler/Scripts/AmxModx</code> directory
-3. Open the <code>Scripts</code> folder inside TextWrangler installation. The easiest way to do that is to run TextWrangler, go to menu Scripts (that one with an icon ) >"Open Scripts Folder".
+3. Open the <code>Scripts</code> folder inside <code>&lt;user home>/Library/ApplicationSupport/TextWrangler</code> installation. The easiest way to do that is to run TextWrangler, go to menu Scripts (that one with an icon ) >"Open Scripts Folder".
 4. Drop the <code>AmxModx</code> folder from download inside <code>Scripts</code> you just opened.
 
 ## Credits
