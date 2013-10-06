@@ -5,9 +5,9 @@
 This projects focus on providing tools in order to aid the development of AMX Mod X plugins on TextWrangler and BBEdit for OSX users.
 
 TextWrangler is a light and free version of BBEdit (this one costs about $50). The scripts provided here is about the same, language code files are identical.
-BBEdit implementation is more featured though, it adds eg. the autocomplete feature (which's very helpful by the way). Since it's paid you might want to test a demo first and check if it's worth the 50 bucks.
-Here's a comparison of these products:
-http://www.barebones.com/products/bbedit/comparison.html
+BBEdit is more a more robust editor though, it adds eg. the autocomplete feature (which's very helpful by the way), among other features
+You might want to check Barebones site to read the [full comparison](http://www.barebones.com/products/bbedit/comparison.html) of these products.
+
 
 
 ## Compiling Scripts
