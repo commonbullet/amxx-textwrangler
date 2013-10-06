@@ -39,11 +39,12 @@ Yet to be written, but installation is almost the same as the compiling scripts,
 * There's a weird delay when compiling commands are called through editors, I couldn't figure out why it happens. When scripts are called directly through AppleScript Editor, there's no delay at all.
 
 ### Language Code
-* Can't make the <code>^</code> character work as an escape in editor, even though I'm following Backbones [instructions](http://www.barebones.com/support/develop/clm.html) for building language code.
+* Can't make the <code>^</code> character work as an escape in editor, even though I'm following Bare Bones [instructions](http://www.barebones.com/support/develop/clm.html) for building language code.
 
+## Links
+* [AMX Mod X site](http://www.amxmodx.org)
+* [Bare Bones products page](http://www.barebones.com/products/)
 
 ## Credits
 * Most keywords in for the language code were taken from [Arkshine](http://forums.alliedmods.net/member.php?u=7779)'s [Notepad++ definitions](http://forums.alliedmods.net/showthread.php?t=172128), which's also based on [fysiks](https://forums.alliedmods.net/member.php?u=30719)' [work](https://forums.alliedmods.net/showthread.php?t=86974).
-
-## Links
 
