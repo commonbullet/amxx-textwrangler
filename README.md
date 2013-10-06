@@ -1,8 +1,5 @@
 # Amxmodx - TextWrangler
 
-## Warning
-This project has some missing parts under development, compiling tools are working though.
-
 
 ### Summary
 This projects focus on providing tools in order to help compiling and writing AMX Mod X plugins on TextWrangler.
