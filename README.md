@@ -2,7 +2,7 @@
 
 
 ### Summary
-This projects focus on providing tools in order to help compiling and writing AMX Mod X plugins on TextWrangler.
+This projects focus on providing tools in order to aid the development of AMX Mod X plugins on TextWrangler.
 
 
 ## Compiling Scripts
